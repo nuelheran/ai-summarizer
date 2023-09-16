@@ -1,4 +1,9 @@
 # AI Summarizer
+Live site (https://openai-msumz.netlify.app/)
+
+![aisummarizer](https://github.com/nuelheran/ai-summarizer/assets/140153463/6ff91bb3-88b0-4eac-a007-aa288e48d5d0)
+
+
 Alongside building this application:
 
 * setup a ReactJS project using Vite
